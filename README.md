@@ -7,15 +7,17 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CynthiaBrady/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CynthiaBrady/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CynthiaBrady/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/CynthiaBrady/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CynthiaBrady/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Cynthia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Cynthia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Cynthia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/Cynthia
+
+
+
+[linkedin]: https://linkedin.com/in/CynthiaBrady
+
+
+
