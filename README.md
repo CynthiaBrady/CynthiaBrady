@@ -18,7 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/CynthiaBrady
-
-
-
+[linkedin]: https://linkedin.com/in/cynthia-brady-7037102b6
